@@ -13,4 +13,5 @@ app.get('/comments', function (req, res) {
 
 // Start web server
 app.listen(3000, function () {
-  console.log('Express.js web server running at http://
+  console.log('Express.js web server running at http://localhost:3000/')
+})
